@@ -4,4 +4,5 @@ Implement a user interface for the calculator using stack and queue data structu
 No libraries are allowed(including RegEx)
 ## Notes
 Assigment requirements can be seen in EE441_HW2.pdf\
-The assigment is marked 95/100.
+The assigment is marked 95/100.\
+Yekta
