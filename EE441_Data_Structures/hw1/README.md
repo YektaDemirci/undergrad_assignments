@@ -7,4 +7,4 @@ designed and implemented in this homework.
 ## Notes
 One of the very first C++ code I wrote.\
 Assigment requirements can be seen in EE441_HW1.pdf\
-The assigment received 95/100.
+The assigment is marked 95/100.
