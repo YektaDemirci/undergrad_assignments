@@ -1,7 +1,7 @@
-#Explanation
-##Introduction
+# Explanation
+## Introduction
 Implement a user interface for the calculator using stack and
 queue data structures. No libraries are allowed(including RegEx)
-##Notes
+## Notes
 Assigment requirements can be seen in EE441_HW2.pdf
 The assigment is marked 95/100.
