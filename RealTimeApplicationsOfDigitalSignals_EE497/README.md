@@ -2,9 +2,9 @@
 ## Introduction
 4th year elective lab course where Digital Signal Processing techniques firstly implemented on MATLAB then on myRIO embedded device. \
 Lectures were given by Professor Temel Engin Tuncer. \
-Labs were guided by TA Aybuke Erol. \
+Labs were guided by TA Aybuke Erol. 
 ## Notes
-Lab manuals are not updated to GitHub due to copyright issues(Project is uploaded). However the contents can be seen below. \
+Lab manuals are not updated to GitHub due to copyright issues(Project is uploaded). However the contents can be seen below. 
 
 * Lab 1: **Programming simple functions in LABVIEW on a PC**
 * Lab 2: **Programming both MyRIO CPU and FPGA**
