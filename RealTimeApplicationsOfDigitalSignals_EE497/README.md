@@ -11,7 +11,7 @@ Lab manuals are not updated to GitHub due to copyright issues(Project is uploade
 * **Lab 3: Signal Generation, Filtering, Cross Correlation, A/D, D/A, DMA** 
 	* Lab 3_1: by MATLAB 
 	* Lab 3_2: on MyRIO(Realtime) 
-* **Lab 4: **Decimation, Interpolation and Phase-Locked Loop**
+* **Lab 4: Decimation, Interpolation and Phase-Locked Loop**
 	* Lab 4_1: by MATLAB 
 	* Lab 4_2: on MyRIO(Realtime) 
 * **Lab 5: Optimum Filtering: FIR Wiener Filter Implementation For Noise Removal** 
