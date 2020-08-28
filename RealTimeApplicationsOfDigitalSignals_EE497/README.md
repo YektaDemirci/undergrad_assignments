@@ -1,10 +1,10 @@
 # Explanation
 ## Introduction
-4th year elective lab course where Digital Signal Processing techniques firstly implemented on MATLAB then on myRIO embedded device.
-Lectures were given by Professor Temel Engin Tuncer.
-Labs were guided by TA Aybuke Erol.
+4th year elective lab course where Digital Signal Processing techniques firstly implemented on MATLAB then on myRIO embedded device. \
+Lectures were given by Professor Temel Engin Tuncer. \
+Labs were guided by TA Aybuke Erol. \
 ## Notes
-Lab manuals are not updated to GitHub due to copyright issues(Project is uploaded). However the contents can be seen below. 
+Lab manuals are not updated to GitHub due to copyright issues(Project is uploaded). However the contents can be seen below. \
 
 * Lab 1: **Programming simple functions in LABVIEW on a PC**
 * Lab 2: **Programming both MyRIO CPU and FPGA**
@@ -25,9 +25,9 @@ Lab manuals are not updated to GitHub due to copyright issues(Project is uploade
 	* Lab 7_2: on MyRIO(Realtime)
 * Project: **Implementation of Overlap-and-Save Algorithm in myRIO**
 
-Implemented MATLAB and LabVIEW codes were not permitted to be uploaded anywhere. However the reports can are uploaded.
-Almost all of the reports are graded as +90/100.
-Reports may have typos and grammar mistakes since the labs had very harsh time constraints. 
-Implemented codes in MATLAB and C for the project are uploaded.
+Implemented MATLAB and LabVIEW codes were not permitted to be uploaded anywhere. However the reports can are uploaded. \
+Almost all of the reports are graded as +90/100. \
+Reports may have typos and grammar mistakes since the labs had very harsh time constraints. \
+Implemented codes in MATLAB and C for the project are uploaded. \
 Yekta and S. Emre
 
