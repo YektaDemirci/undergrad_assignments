@@ -9,20 +9,20 @@ Lab manuals are not updated to GitHub due to copyright issues(Project is uploade
 * **Lab 1: Programming simple functions in LABVIEW on a PC**
 * **Lab 2: Programming both MyRIO CPU and FPGA**
 * **Lab 3: Signal Generation, Filtering, Cross Correlation, A/D, D/A, DMA** 
-	* Lab 3_1: by MATLAB 
-	* Lab 3_2: on MyRIO(Realtime) 
+	* Lab 3-1: MATLAB 
+	* Lab 3-2: on MyRIO-realtime
 * **Lab 4: Decimation, Interpolation and Phase-Locked Loop**
-	* Lab 4_1: by MATLAB 
-	* Lab 4_2: on MyRIO(Realtime) 
+	* Lab 4-1: MATLAB 
+	* Lab 4-2: on MyRIO-realtime
 * **Lab 5: Optimum Filtering: FIR Wiener Filter Implementation For Noise Removal** 
-	* Lab 5_1: by MATLAB
-	* Lab 5_2: on MyRIO(Realtime)
+	* Lab 5-1: MATLAB
+	* Lab 5-2: on MyRIO-realtime
 * **Lab 6: System Identification with Adaptive Processing, Design and Implementation of LMS Filter** 
-	* Lab 6_1: by MATLAB
-	* Lab 6_2: on MyRIO(Realtime)
+	* Lab 6-1: MATLAB
+	* Lab 6-2: on MyRIO-realtime
 * **Lab 7: Image Processing, 2D FFT, Filtering, Edge Detection** 
-	* Lab 7_1: by MATLAB
-	* Lab 7_2: on MyRIO(Realtime)
+	* Lab 7-1: MATLAB
+	* Lab 7-2: on MyRIO-realtime
 * **Project: Implementation of Overlap-and-Save Algorithm in myRIO**
 
 Implemented MATLAB and LabVIEW codes were not permitted to be uploaded anywhere. However the **reports are uploaded**. \
