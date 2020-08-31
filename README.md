@@ -1,6 +1,6 @@
 # Explanation
 ## Introduction
-Some scripts implemented during my undergraduate studies(There are more courses I took than the ones listed below).
+Some scripts implemented during my undergraduate studies(I took more courses than the ones listed below).
 ## Content
 * **Bachelor Engineering Design:EE493-494**
 * **Data Structure Course: EE441**
